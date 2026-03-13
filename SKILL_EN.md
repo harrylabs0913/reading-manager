@@ -1,4 +1,8 @@
 ---
+version: "1.0.0"
+---
+
+---
 name: reading-manager
 description: "Personal reading management system for tracking books, articles, reading progress, notes, and generating reading reports. Use when: (1) recording books and articles to read, (2) tracking reading progress by pages or percentage, (3) taking reading notes and highlights, (4) managing reading lists (want to read, reading, finished), (5) generating reading statistics and reports, (6) setting reading goals and reminders."
 ---
